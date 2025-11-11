@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently build a tic-tac-toe game <br>👯 I’m wanting to collab with a team of engine developers<br>🌱 I'm learning OpenGL, and C to build my own game engine<br>💬 Ask me about anything!!!<br>⚡Before I even started programming I become a AWS CP.<br>
+🔭 Currently building whatever <br>👯 I’m wanting to collab with a team of engine developers<br>🌱 I'm learning OpenGL, and C to build my own game engine<br>💬 Ask me about anything!!!<br>⚡Before I even started programming I become a AWS CP.<br>
 
 
 ## 🌐 Socials:
